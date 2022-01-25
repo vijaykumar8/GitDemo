@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="63" started-at="2022-01-15T22:52:42 EST" finished-at="2022-01-15T22:52:42 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="63" started-at="2022-01-15T22:52:42 EST" finished-at="2022-01-15T22:52:42 EST">
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="apiTest1()[pri:0, instance:qaclickacademy.RestAPITest@7a9273a8]" name="apiTest1" duration-ms="8" started-at="2022-01-15T22:52:42 EST" finished-at="2022-01-15T22:52:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest1 -->
+        <test-method status="PASS" signature="apiTest2()[pri:0, instance:qaclickacademy.RestAPITest@7a9273a8]" name="apiTest2" duration-ms="2" started-at="2022-01-15T22:52:42 EST" finished-at="2022-01-15T22:52:42 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest2 -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

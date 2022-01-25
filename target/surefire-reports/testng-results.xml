@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="54" started-at="2022-01-10T23:44:47 EST" finished-at="2022-01-10T23:44:47 EST">
+    <groups>
+    </groups>
+    <test name="Smoke" duration-ms="54" started-at="2022-01-10T23:44:47 EST" finished-at="2022-01-10T23:44:47 EST">
+      <class name="qaclickacademy.RestAPITest">
+        <test-method status="PASS" signature="apiTest1()[pri:0, instance:qaclickacademy.RestAPITest@55d56113]" name="apiTest1" duration-ms="0" started-at="2022-01-10T23:44:47 EST" finished-at="2022-01-10T23:44:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest1 -->
+        <test-method status="PASS" signature="apiTest2()[pri:0, instance:qaclickacademy.RestAPITest@55d56113]" name="apiTest2" duration-ms="0" started-at="2022-01-10T23:44:47 EST" finished-at="2022-01-10T23:44:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiTest2 -->
+      </class> <!-- qaclickacademy.RestAPITest -->
+      <class name="qaclickacademy.SeleniumTest">
+        <test-method status="PASS" signature="selTest1()[pri:0, instance:qaclickacademy.SeleniumTest@4b952a2d]" name="selTest1" duration-ms="5" started-at="2022-01-10T23:44:47 EST" finished-at="2022-01-10T23:44:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTest1 -->
+        <test-method status="PASS" signature="selTest2()[pri:0, instance:qaclickacademy.SeleniumTest@4b952a2d]" name="selTest2" duration-ms="0" started-at="2022-01-10T23:44:47 EST" finished-at="2022-01-10T23:44:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selTest2 -->
+      </class> <!-- qaclickacademy.SeleniumTest -->
+    </test> <!-- Smoke -->
+  </suite> <!-- Suite -->
+</testng-results>
